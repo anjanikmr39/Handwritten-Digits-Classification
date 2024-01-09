@@ -10,7 +10,19 @@ We have performed Convolution Neural Network (CNN), K-Nearest Neighbors (KNN), a
 --------
 ## **Model Comparision Report**
 
-![image](https://github.com/anjanikmr39/Handwritten-Digits-Classification/assets/67219753/b966c8af-5686-4451-a4d1-78c1a356a5da)
+```
++--------------+--------------------+-----------------+
+| Model Name   | Testing Accuracy   | Ranking order   |
++==============+====================+=================+
+| CNN          | 99.03%             | 1st(BEST)       |
++--------------+--------------------+-----------------+
+| KNN          | 97%                | 2nd             |
++--------------+--------------------+-----------------+
+| SVM          | 94%                | 3rd             |
++--------------+--------------------+-----------------+
+
+```
+
 
 **For CNN**
 
