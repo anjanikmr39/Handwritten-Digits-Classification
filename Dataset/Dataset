@@ -1,0 +1,5 @@
+# Import MNIST from TensorFlow
+from tensorflow.keras.datasets import mnist
+
+# Load the MNIST dataset
+(Xtrain,Ytrain),(Xtest,Ytest) = mnist.load_data()
