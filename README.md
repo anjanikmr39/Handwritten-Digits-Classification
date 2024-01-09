@@ -12,7 +12,7 @@ We have performed Convolution Neural Network (CNN), K-Nearest Neighbors (KNN), a
 
 ![image](https://github.com/anjanikmr39/Handwritten-Digits-Classification/assets/67219753/b966c8af-5686-4451-a4d1-78c1a356a5da)
 
-For CNN
+**For CNN**
 
 From the below graph we analyse that validation loss is minimum at 4 epochs, and accuracy is optimum at 4 epochs
 So, we decided to train our model again till 4 epochs only with batch size of 30.
